@@ -1,3 +1,7 @@
+# 致谢
+作者：cdle  
+  
+  [原链接](https://github.com/cdle/sillyGirl)
 ##### sillyGirl
 
 ##### 傻妞机器人名
