@@ -141,5 +141,3 @@ set wxmp masters w1&w2&w3...
 ##### 设置动态网络地址，适用于傻妞家庭宽带而可爱猫在云服务器的情况下
 
 set wx dynamic_ip true
-
-![Image text](https://raw.githubusercontent.com/cdle/sillyGirl/main/appreciate.jpg)
